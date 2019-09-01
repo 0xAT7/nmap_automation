@@ -30,7 +30,7 @@ def process():
 				except:
 					pass
 	except:
-		print ("Please enter exist subdomains file\n"+Fore.GREEN+"Usage: python nmap.py subdomains.txt")
+		print ("Please enter exist subdomains file\n"+Fore.GREEN+"Usage: python nmap_automation.py subdomains.txt")
 		sys.exit(1)
 process()
 
