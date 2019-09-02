@@ -1,7 +1,6 @@
 import socket
 import os
 import sys
-import threading
 import colorama
 from colorama import Fore, Style
 
